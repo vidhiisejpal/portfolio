@@ -12,8 +12,8 @@
   }
 
   .bg {
-    background-color: #333;
-    color: white;
+    background-color: #fff; /* White background */
+    color: #000; /* Black text color */
     height: 100%;
     display: flex;
     justify-content: center;
@@ -22,7 +22,7 @@
   }
 
   .profile-img {
-    border: 5px solid #fff;
+    border: 5px solid #000; /* Black border for the image */
     border-radius: 50%;
     padding: 5px;
     width: 200px;
@@ -71,4 +71,3 @@
 
 </body>
 </html>
-
