@@ -60,7 +60,7 @@
 
 <div class="bg">
   <img src="path_to_your_image.jpg" alt="Vidhi Sejpal" class="profile-img">
-  <div class="title">Your Name</div>
+  <div class="title">Vidhi Sejpal</div>
   <div class="subtitle">Data Analyst</div>
   <div class="tagline">"POWERING MARKETING SUCCESS WITH DATA-DRIVEN INSIGHTS"</div>
   <div class="subtitle">Well versed in SQL, Python, R</div>
